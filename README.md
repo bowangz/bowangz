@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-Welcome to my profile. I'm currently working as Data Analyst at SponsorUnited. I graduated from UIUC with Master's degree in Civil Engineering and Technology Management. Interested in tennis, other sports, traveling and technology.
+Welcome to my profile! I'm currently working as Data Analyst at SponsorUnited. Interested in finding insights from data and present it🕵️.
+
+I graduated from UIUC 🔹🔸 with Master's degree in Civil Engineering and Technology Management. 
+
+My hobbies include tennis, other sports, traveling and photography. 
 
 <!--
 **bowangz/bowangz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
