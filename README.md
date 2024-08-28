@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Welcome to my profile! I'm currently working as Data Analyst at SponsorUnited. Interested in finding insights from data and present it🕵️.
+Welcome to my profile! 
+
+I'm currently working as Data Analyst at SponsorUnited. Interested in finding insights from data and present it🕵️.
 
 I graduated from UIUC 🔹🔸 with Master's degree in Civil Engineering and Technology Management. 
 
